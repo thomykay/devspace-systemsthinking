@@ -412,7 +412,7 @@ Think of these archetypes as the **storylines of systems in the world**. Just as
 
 a “quick-fix” solution can have unintended consequences that exacerbate the problem. It hypothesizes that the problem symptom will diminish for a short while and then return to its previous level, or become even worse over time.
 
-For more, see here.
+For more, [see here](../material/system%20archetypes.md).
 
 ---
 
@@ -426,6 +426,8 @@ For more, see here.
 * Shifting the Burden
 * Successful to the Successful
 * Tradegy of the Commons
+
+See [Details](../material/system%20archetypes.md)
 
 ---
 <!-- backgroundColor: lightblue -->
