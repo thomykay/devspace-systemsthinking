@@ -8,35 +8,34 @@ footer: 🧠 Systems Thinking - ganz praktisch 🛠️
 <!-- markdownlint-disable MD025 MD045 MD012 -->
 # Systems Thinking - ganz praktisch
 
- I start writing here.
+ Egal ob es um die Situation in Deinem **Team**, die **Firma** in der Du arbeitest, Deine persönliche Weiterentwicklung oder um große **globale Themen** geht: Sich „ein Bild“ von der Welt zu machen ist nicht einfach. Um komplexe Systeme und deren Wirkzusammenhänge zu verstehen, existieren eine Reihe **mentale Modelle** und zugehörigen Visualisierungstechniken.
+
+Wir werden ausgewählte – z. B. Ladder of Inference, **Causal Loop Diagrams**, **Current Reality Trees und Future Reaility Trees** – kennenlernen und sie auf praktische Alltagssituationen anwenden. Nach dem Workshop werdet ihr „eure Systeme“ wieder ein bisschen gezielter beeinflussen und verbessern können.
 
 ---
 
-# What makes you complex?
+<!-- backgroundColor: lightblue -->
+# 🤹 What makes you complex as a living system?
 
-Connect with others
-
----
-
-# Why are you here?
-
-Connect with the topic
+# 🧑🏻‍🤝‍🧑🏼 What kind of system is your team, your company?
 
 ---
 
+<!-- backgroundColor: default -->
 # Some Logistics
 
-* 3x70 minutes with breaks
-* Our Miro board
-* Our github repo
-
+* 3x70 minutes, with breaks
+* This is a PowerPoint free session 🤪
+* All material in English (Really?)
+* [Our Miro board](https://miro.com/app/board/o9J_llN-cwY=/)
+* [Our Github repo](https://github.com/thomykay/devspace-systemsthinking)
+* We are all experts. We are all learners.
+  
 ---
 
-
----
 # What is a System?
 
-![](graphics\what-is-a-system.jpg)
+![](graphics/what-is-a-system.jpg)
 
 ---
 
@@ -89,34 +88,6 @@ Idea of "The Learning Organization"
 See: [Details](https://github.com/thomykay/devspace-systemsthinking/blob/main/src/material/the-fifth-discipline.md)
 
 ---
-
-# The Seven Learning Disabilities
-
-1. I am my position.
-2. “The enemy Is out there” syndrome.
-3. The illusion of taking charge.
-4. Fixation on events. 
-5. The Parable of the Boiled Frog.
-6. The delusion of learning from experience.
-7. The myth of the management team.
-
-See: [Details](https://github.com/thomykay/devspace-systemsthinking/blob/main/src/material/the-fifth-discipline.md)
-
----
-
-# 11 Laws of Systems Thinking
-
-See: [Details](https://github.com/thomykay/devspace-systemsthinking/blob/main/src/material/the-fifth-discipline.md)
-
----
-<!-- backgroundColor: lightblue -->
-
-# Exercise - The Fifth Discipline
-|Time|What|Comments|
-|--|--|--|
-|🕜4min|In your group, bring an example each...||
-
----
 <!-- backgroundColor: default -->
 # Current Reality Tree
 
@@ -154,32 +125,22 @@ Source: [Solving Problems with Theory of Constraints, CRTs @ Lean Agile Edinburg
 |🕜10min|Share horror stories about each person's experience with Teams From Hell.||
 
 ---
+
+# UDE Debrief
+
+* 🪢 What reminded you of you day-to-day?
+* 💬 What did this teach you about great communication?
+* 🎯 How did you align on the goal?
+
+---
+
 <!-- backgroundColor: default -->
-# UDE Debrief - Team Dysfunctions
+# Apropos "Team from Hell" - Team Dysfunctions
 
 ![](drawings/five-dysfunctions-of-a-team.drawio.svg)
 
 ---
 
-# What is a Mental Model?
-
-A mental model is an **explanation of how something works**. The phrase “mental model” is an overarching term for any sort of concept, framework, or worldview that you carry around in your mind.
-
-Mental models help you **understand life**.
-
-Source: [Mental Models: Learn How to Think Better and Gain a Mental Edge](https://jamesclear.com/mental-models)
-
----
-
-# 5 Mental Models
-
-![](drawings/mentalmodels.overview.drawio.svg)
-
----
-<!-- backgroundColor: lightblue -->
-# Exercise - 5 Mental Models
-
----
 <!-- backgroundColor: default -->
 # Reading a CRT (1)
 
@@ -219,6 +180,15 @@ Starting with the collected UDEs, build the CRT for the “Team from Hell”.
 
 ---
 
+# CRT - Debrief
+
+* 💬 Doing it again, how would you communicate differently?
+* 👌 How did you organize yourselves as a team?
+* 🎬 What does this experience remind you of in your day-to-day?
+
+---
+
+<!-- backgroundColor: default -->
 # CRT - Reading (Extra)
 
 Source: [Scrutinizing and improving a Logical Current Reality Tree](https://www.youtube.com/watch?v=NVrEt6hDJVM&t=65s)
@@ -227,7 +197,11 @@ Unoptimized             |  Optimized
 :-------------------------:|:-------------------------:
 ![](drawings/crt.example.incidents.1.drawio.svg)  |  ![](drawings/crt.example.incidents.2.drawio.svg)
 
+---
 
+# Future Reality Tree
+
+is a **visualization of a desired, improved future state**. ... A FRT usually follows an analysis with a Current Reality Tree and other visual analysis methods.
 
 ---
 <!-- backgroundColor: default -->
@@ -259,15 +233,67 @@ How can we escape the hell with our team - into a bright future 🌞?
 |🕜7min|Can you think about any possible **injections** to address the root causes?
 |🕜...|Optional: Think about one of your injections and write down a possible **negative branch** for that injection (no need to trim it). 
 
+---
 
+# FRT - Debrief
+
+* 👌 Did something unpredictable happen? What was unpreditable?
+* 🎬 What did you learn about yourself and the team?
+* 💚 What else would you like to share?
 
 ---
+
 <!-- backgroundColor: default -->
+# Break
+
+---
+
+# What is a Mental Model?
+
+A mental model is an **explanation of how something works**. The phrase “mental model” is an overarching term for any sort of concept, framework, or worldview that you carry around in your mind.
+
+Mental models help you **understand life**.
+
+Source: [Mental Models: Learn How to Think Better and Gain a Mental Edge](https://jamesclear.com/mental-models)
+
+---
+
+# 5 Mental Models
+
+![bg right width:600](drawings/mentalmodels.overview.drawio.svg)
+
+---
+<!-- backgroundColor: lightblue -->
+# Exercise - 5 Mental Models
+You are the experts. Prepare a short 3min talk for the whole group, explain your model.
+* What's the essence of the model?
+* What are the core take aways of the model?
+* What possible applications do you see to see or change your world?
+  
+|Time|What|
+|--|--|
+|🕜3min|Organize the team, how do you process the material?|
+|🕜15min|Read the material, share what you understood|
+|🕜10min|Shape the talk, test it
+
+---
+
+# Debrief - Mental Models
+
+* 💬 Doing it again, how would you communicate differently?
+* 🪢 What ideas, innovation or changes emerged?
+* 🎬 What are you more aware of now?
+
+---
+
+<!-- backgroundColor: default -->
+# Break
+---
+
 # Causal Loop Diagrams (CLD)
 
-![bg right](drawings/cld.example.population.0.drawio.svg)
+![bg right width:600](drawings/cld.example.population.0.drawio.svg)
 aid in visualizing how different variables in a system are causally interrelated. The diagram consists of a set of words and arrows. Causal loop diagrams are accompanied by a narrative which describes the causally closed situation the CLD describes.
-
 
 ---
 
@@ -312,17 +338,17 @@ Source: [Systems Thinking mit Causal-Loop-Diagrammen](https://agilecoach.de/wiss
 * What variables are there in our system that might have something to do with our problem?
 * ➡️ Be precise in naming the variables, ideally make them quantitative
 
-![](drawings/cld.exercise.1.drawio.svg)
+![bg right width:600](drawings/cld.exercise.1.drawio.svg)
 
 ---
 
 # Building a CLD (2) - Dynamics and changes of system variables
 
-* What relationship can be established between individual system variables?
+* What relation can be established between individual system variables?
 * Do two system variables influence each other directly or are other variables involved?
 * Which other aspects play a role in the environment of an identified variable?
 
-![](drawings/cld.exercise.2.drawio.svg)
+![bg left width:600](drawings/cld.exercise.2.drawio.svg)
 
 ---
 
@@ -330,7 +356,7 @@ Source: [Systems Thinking mit Causal-Loop-Diagrammen](https://agilecoach.de/wiss
 
 * If variable A changes upward, that is, becomes stronger, higher, or more in its expression, how does variable B change?
 
-![](drawings/cld.exercise.3.drawio.svg)
+![bg right width:600](drawings/cld.exercise.3.drawio.svg)
 
 ---
 
@@ -338,22 +364,27 @@ Source: [Systems Thinking mit Causal-Loop-Diagrammen](https://agilecoach.de/wiss
 
 * Add additional influences, causes and identify delays in the process
 
-![](drawings/cld.exercise.4.drawio.svg)
-
+![bg left width:500](drawings/cld.exercise.4.drawio.svg)
 
 ---
 <!-- backgroundColor: lightblue -->
 # CLD - Exercise
 
-## Build an initial CLD from a problem/challenge you are facing within your team/project
+Build an initial CLD from a problem/challenge you are facing within your team/project (5 scenarios)
 
-|Time|What|How|
-|--|--|--|
-|🕜5m|🧠 Think for yourself||
-|🕜15m|🧑🏻‍🤝‍🧑🏼 Work together to create the thing||
-|🕜
+|Time|What|
+|--|--|
+|🕜5min|Explain your scenario. The team makes notes (Identify System Variables)|
+|🕜15min|🧑🏻‍🤝‍🧑🏼Find relations and more aspects, consider reinforcement and weakening relations|
+|🕜10min|🧑🏻‍🤝‍🧑🏼Can you find delays, identify loops in the scenario?
+
 ---
+
 # CLD - Exercise - Debrief
+
+* 🎬 What would an expert make of your experience?
+* 👌 How was the participation distributed?
+* 🎯 What was most challenging?
 
 ---
 <!-- backgroundColor: default -->
@@ -365,4 +396,46 @@ Source: [Identifying the “right” interventions in the wicked complexity of t
 
 ---
 
-# What did we learn?
+# Addendum - CLD Archetypes
+
+Source: [Tools for Systems Thinkers: The 12 Recurring Systems Archetypes](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-12-recurring-systems-archetypes-2e2c8ae8fc99)
+
+Archetypes are recurring patterns of behavior that give insights into the structures that drive systems. They offer a way of deciphering systems dynamics across a diversity of disciplines, scenarios, or contexts.
+
+Think of these archetypes as the **storylines of systems in the world**. Just as you can identify the same formula for a romcom or a thriller in a Hollywood film, these archetypes help systems thinkers see behaviors and flows in more concrete terms.
+
+---
+
+# Archetypes - Example - Fixes that Fail
+
+![bg left width:600](../material/graphics/archetypes.fixes-that-fail.drawio.svg)
+
+a “quick-fix” solution can have unintended consequences that exacerbate the problem. It hypothesizes that the problem symptom will diminish for a short while and then return to its previous level, or become even worse over time.
+
+For more, see here.
+
+---
+
+# Archetypes
+
+* Drifting Goals
+* Escalation
+* Fixes That Fail
+* Growth and Underinvestment
+* Limits to Success
+* Shifting the Burden
+* Successful to the Successful
+* Tradegy of the Commons
+
+---
+<!-- backgroundColor: lightblue -->
+# Checkout
+
+## What has been my highest high and lowest low from this project/workshop/session?
+
+## What's my biggest insight from today?
+
+---
+
+<!-- backgroundColor: default -->
+# 🙏Thank you🙏
