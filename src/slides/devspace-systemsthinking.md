@@ -5,7 +5,7 @@ title: Systems Thinking - ganz praktisch
 theme: default
 footer: 🧠 Systems Thinking - ganz praktisch 🛠️
 ---
-<!-- markdownlint-disable MD025 MD045 MD012 -->
+<!-- markdownlint-disable MD025 MD045 MD012 MD024 -->
 # Systems Thinking - ganz praktisch
 
  Egal ob es um die Situation in Deinem **Team**, die **Firma** in der Du arbeitest, Deine persönliche Weiterentwicklung oder um große **globale Themen** geht: Sich „ein Bild“ von der Welt zu machen ist nicht einfach. Um komplexe Systeme und deren Wirkzusammenhänge zu verstehen, existieren eine Reihe **mentale Modelle** und zugehörigen Visualisierungstechniken.
@@ -30,6 +30,7 @@ Wir werden ausgewählte – z. B. Ladder of Inference, **Causal Loop Diagrams**,
 * [Our Miro board](https://miro.com/app/board/o9J_llN-cwY=/)
 * [Our Github repo](https://github.com/thomykay/devspace-systemsthinking)
 * We are all experts. We are all learners.
+* Let'make this a safe space for all of us!
   
 ---
 
@@ -117,12 +118,12 @@ See: [Details](https://github.com/thomykay/devspace-systemsthinking/blob/main/sr
 
 Source: [Solving Problems with Theory of Constraints, CRTs @ Lean Agile Edinburgh](https://www.slideshare.net/lazallen/solving-problems-with-theory-of-constraints-current-reality-trees-lean-agile-edinburgh)
 
-|Time|What|How|
-|--|--|--|
-|🕜3min|Individually: Note **7 things that drive you crazy** about team work
-|🕜10min|Share the lists with each other.|*Bingo*...|
-|🕜6min|As a 'new team', what are your top 5?|
-|🕜10min|Share horror stories about each person's experience with Teams From Hell.||
+|Time|What|
+|--|--|
+|🕜3min|Individually: Note **7 things that drive you crazy** about team work|
+|🕜7min|Share the lists with each other.|*Bingo*...|
+|🕜5min|As a 'new team', what are your top 5?|
+|🕜...|Optional: Share horror stories about each person's experience with Teams From Hell.|
 
 ---
 
@@ -231,7 +232,7 @@ How can we escape the hell with our team - into a bright future 🌞?
 |--|--|
 |🕜7min|What would the **desirable effects** be in the FRT?||
 |🕜7min|Can you think about any possible **injections** to address the root causes?
-|🕜...|Optional: Think about one of your injections and write down a possible **negative branch** for that injection (no need to trim it). 
+|🕜...|Optional: Think about one of your injections and write down a possible **negative branch** for that injection (no need to trim it).
 
 ---
 
@@ -265,7 +266,9 @@ Source: [Mental Models: Learn How to Think Better and Gain a Mental Edge](https:
 ---
 <!-- backgroundColor: lightblue -->
 # Exercise - 5 Mental Models
+
 You are the experts. Prepare a short 3min talk for the whole group, explain your model.
+
 * What's the essence of the model?
 * What are the core take aways of the model?
 * What possible applications do you see to see or change your world?
@@ -288,6 +291,7 @@ You are the experts. Prepare a short 3min talk for the whole group, explain your
 
 <!-- backgroundColor: default -->
 # Break
+
 ---
 
 # Causal Loop Diagrams (CLD)
