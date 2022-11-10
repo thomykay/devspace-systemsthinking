@@ -22,8 +22,8 @@ Nach dem Workshop werdet ihr „eure Systeme“ wieder ein bisschen gezielter be
 
 ---
 <!-- _backgroundColor: lightblue -->
-* # 🕸️How much do you work with Systems Thinking so far?
-* # What are you motivation and questions for today's workshop?
+* # 🕸️ How much do you work with Systems Thinking so far?
+* # 👊 What are your motivation and questions for today's workshop?
 
 
 ---
@@ -275,7 +275,7 @@ Source: [Mental Models: Learn How to Think Better and Gain a Mental Edge](https:
 <!-- _backgroundColor: lightblue -->
 # Exercise - 5 Mental Models
 
-You are the experts. Prepare a short 5min talk for the whole group, explain your model.
+You are the experts. Prepare a short 3min talk for the whole group, explain your model.
 
 1. What's the **essence** of the model?
 2. What are the **core take aways** of the model?
@@ -284,7 +284,7 @@ You are the experts. Prepare a short 5min talk for the whole group, explain your
 |Time|What|
 |--|--|
 |🕜3min|🧑🏻‍🤝‍🧑🏼 Organize as a team|
-|🕜15min|🧍 Read the material, 🧑🏻‍🤝‍🧑🏼 share what you understood|
+|🕜10min|🧍 Read the material, 🧑🏻‍🤝‍🧑🏼 share what you understood|
 |🕜10min|🧑🏻‍🤝‍🧑🏼 Shape the talk, test it
 
 ---
@@ -452,7 +452,7 @@ See [Details](../material/system%20archetypes.md)
 
 # Archetypes - Fixes that Fail
 
-![bg left width:600](../material/graphics/archetypes.fixes-that-fail.drawio.svg)
+![bg left width:100%](.drawings/../drawings/archetypes.fixes-that-fail.drawio.svg)
 
 a “quick-fix” solution can have unintended consequences that exacerbate the problem. It hypothesizes that the problem symptom will diminish for a short while and then return to its previous level, or become even worse over time.
 
@@ -477,7 +477,7 @@ For more, [see here](../material/system%20archetypes.md).
 
 # Archetypes - Tragedy of the Commons
 
-![bg left width:600](../material/graphics/archetypes.tragedy-of-the-commons.drawio.svg)
+![bg left width:100%](./drawings/archetypes.tragedy-of-the-commons.drawio.svg)
 
 identifies the causal connections between individual actions and the collective results (in a closed system).
 
@@ -520,7 +520,7 @@ More on [“The tragedy of the commons” in software development](https://critt
 
 # Archetypes - Successful to the Successful
 
-![bg left width:600](../material/graphics/archetypes.successful-to-the-successful.drawio.svg)
+![bg left width:100%](./drawings/archetypes.successful-to-the-successful.drawio.svg)
 
 states that if one person or group (A) is given more resources than another equally capable group (B), A has a higher likelihood of succeeding.
 
@@ -596,11 +596,11 @@ Go back to your scenario and the respective CLD from earlier today.
 ---
 
 <!-- _backgroundColor: lightblue -->
-# Checkout
+# Feedback & Checkout
 
-## What has been my highest high and lowest low from this project/workshop/session?
+## 👍👎 What has been my highest high and lowest low from this project/workshop/session?
 
-## What's my biggest insight from today?
+## 👉 What's my biggest insight from today?
 
 ---
 
