@@ -6,7 +6,7 @@ Sources:
 
 ## A folk tale from India that teaches intercultural awareness by illustrating how different perspectives lead to distinct points of view.
 
-![](../graphics/mentalmodels.blind-men-and-elephant.drawio.svg)
+![](./graphics/mentalmodels.blind-men-and-elephant.drawio.svg)
 
 Long ago six old men lived in a village in India. Each was born blind. The other villagers loved the old men and kept them away from harm. Since the blind men could not see the world for themselves, they had to imagine many of its wonders. They listened carefully to the stories told by travelers to learn what they could about life outside the village.
 
