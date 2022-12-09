@@ -3,6 +3,7 @@ marp: true
 paginate: true
 title: Systems Thinking - ganz praktisch
 theme: default
+transition: fade
 footer: 🧠 Systems Thinking - ganz praktisch 🛠️
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 -->
@@ -36,7 +37,7 @@ Nach dem Workshop werdet ihr „eure Systeme“ wieder ein bisschen gezielter be
 * This is a PowerPoint free session 🤪
 * All material in English (Really?)
 * Working in thing.online
-* [Our Miro board](https://miro.com/app/board/uXjVPGCFxl8=/)
+* Our Miro board
 * [Our Github repo](https://github.com/thomykay/devspace-systemsthinking/tree/%23devspace2022)
 * We are all experts. We are all learners.
 * Let'make this a safe space for all of us!
@@ -54,7 +55,7 @@ Nach dem Workshop werdet ihr „eure Systeme“ wieder ein bisschen gezielter be
 * the ability or skill to perform problem solving in complex system
 * Systems thinking is your ability to see things as a whole (or holistically) including the many different types of relationships between the many elements in a complex system.
 
-![](graphics/systemsthinking-networkbackground.png)
+![bg cover left:33%](graphics/systemsthinking-networkbackground.png)
 
 > The same old thinking will create the same old results, thus we need to start by changing our way of thinking and looking at the world.
 
@@ -113,7 +114,9 @@ See: [Details](https://github.com/thomykay/devspace-systemsthinking/blob/main/sr
 
 # Undesirable Effects (UDE)
 
-“An UDE is essentially the first indication you have that something might be amiss in the system. It is something that really exists and is negative on its own merits.” – William Dettmer, The Logical Thinking Processes, 2007
+> An UDE is essentially the first indication you have that something might be amiss in the system. It is something that really exists and is negative on its own merits.
+>
+> William Dettmer, The Logical Thinking Processes, 2007
 
 * Examples
   * Employee morale is low
@@ -561,9 +564,9 @@ Pick one of the archetypes not covered so far, understand and discuss them with 
 # Systems Archetypes - Recap
 
 * Archetypes are "repeating stories" in our systems
-* These archetypes can be visualized, udnerstood and detected by using CLDs
+* These archetypes can be visualized, understood and detected by using CLDs
 * They can help us to connect our practices, the patterns (and antipatterns we know) and the underlying fundamental principles how systems work
-* Hence they can help us to 
+* Hence they can help us to act as a starting point for an invitation for change.
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -573,8 +576,8 @@ Go back to your scenario and the respective CLD from earlier today.
 
 1. (Inspect) Can you spot any archetypes in your CLD? Mark them.
 2. (Inspect) Going back to the scenario, are there ways to see and describe them with the help of archetypes?
-3. (Adaptat) Improve the CLD describing your scenario.
-4. (Adaptat) Knowing the underlying archetypes, what could be possible interventions to improve the situation?
+3. (Adapt) Improve the CLD describing your scenario.
+4. (Adapt) Knowing the underlying archetypes, what could be possible interventions to improve the situation?
 
 |Time|What|
 |--|--|
@@ -606,7 +609,7 @@ Go back to your scenario and the respective CLD from earlier today.
 
 # 🙏Thank you🙏
 
-## [linkedin.com/in/thomaskrause](https://www.linkedin.com/in/thomaskrause/)
-
-## [twitter.com/thomykay](https://twitter.com/thomykay)
+* ## [🕸️ linkedin.com/in/thomaskrause](https://www.linkedin.com/in/thomaskrause/)
+* ## [🐦 twitter.com/thomykay](https://twitter.com/thomykay)
+* ## [🗓️ Let's talk!](http://meetings.thing.online/meetings/thomas-krause)
 
