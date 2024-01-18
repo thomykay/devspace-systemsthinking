@@ -260,10 +260,11 @@ The “Success to the Successful” archetype suggests that success or failure m
 6. Assess effects on the innovative spirit. Is the current system excluding or limiting the spirit of experimentation that will lead to new alternatives?
 7. Continually scan for gaps and areas for improvement.
 
-### Example
+### Examples
+
 tbd
 
-## Tradegy of the Commons
+## Tragedy of the Commons
 
 ### Archetype
 
