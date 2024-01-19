@@ -2,7 +2,7 @@
 
 Source: [Iceberg Model](https://www.systemsinnovation.io/post/iceberg-model)
 
-![](graphics/mentalmodels.iceberg.drawio.svg)
+![Iceberg Model](graphics/mentalmodels.iceberg.drawio.svg)
 
 The Iceberg Model tries to illustrate the various level of abstraction to a situation or organization, from the observable events to underlying patterns that generate these, to the supporting structure and ultimately the mental models used by an organization.[1] The Iceberg Model helps individuals and organizations to expand their perception of a situation to see it within the context of the whole system and not limit themselves to looking at just a single activity or event. It is designed to help people to step back and identify the different patterns that, the event is part of, the possible structures that might be causing it to occur, and finally, the model that is creating those structures.[2]
 

@@ -2,7 +2,7 @@
 
 Source: [The Ladder of Inference](https://thesystemsthinker.com/the-ladder-of-inference/)
 
-![](graphics/mentalmodels.ladder-of-inference.drawio.svg)
+![Ladder of Inference](graphics/mentalmodels.ladder-of-inference.drawio.svg)
 
 How we act depends on how we understand the situation we are in. Our understandings often seem obvious to us, as if they were given by the situation itself. But people can come to very different understandings, depending on what aspects of the situation they notice and how they interpret what is going on. The Ladder of Inference is a model of the steps we use to make sense of situations in order to act. It helps us to think about our thinking and to coordinate our thinking with others.
 

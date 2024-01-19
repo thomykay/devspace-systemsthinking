@@ -2,7 +2,7 @@
 
 Source: [Johari Window Model](https://www.toolshero.com/communication-skills/johari-window-model/)
 
-![](graphics/mentalmodels.johari.drawio.svg)
+![Johari Window](graphics/mentalmodels.johari.drawio.svg)
 
 ## What is the Johari Window Model about?
 

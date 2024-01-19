@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD045 -->
 
+# Tools for System Thinkers - The 6 Fundamental Concepts of Systems Thinking
+
 Source: [Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
 
 ## Interconnectedness
@@ -11,7 +13,7 @@ Essentially, everything is reliant upon something else for survival. Humans need
 Inanimate objects are also reliant on other things: a chair needs a tree to grow to provide its wood, and a cell phone needs electricity distribution to power it. So, when we say ‘everything is interconnected’ from a systems thinking perspective, we are defining a fundamental principle of life. From this, we can shift the way we see the world, from a linear, structured “mechanical worldview’ to a dynamic, chaotic, interconnected array of relationships and feedback loops.
 A systems thinker uses this mindset to untangle and work within the complexity of life on Earth.
 
-![](graphics/fundamentals-1.jpeg)
+![Interconnectedness](graphics/fundamentals-1.jpeg)
 
 ## Synthesis
 
@@ -21,7 +23,7 @@ But all systems are dynamic and often complex; thus, we need a more holistic app
 
 Essentially, synthesis is the ability to see interconnectedness.
 
-![](graphics/fundamentals-2.jpeg)
+![Synthesis](graphics/fundamentals-2.jpeg)
 
 ## Emergence
 
@@ -51,10 +53,10 @@ Cause and effect are pretty common concepts in many professions and life in gene
 
 Causality as a concept in systems thinking is really about being able to decipher the way things influence each other in a system. Understanding causality leads to a deeper perspective on agency, feedback loops, connections and relationships, which are all fundamental parts of systems mapping.
 
-![](graphics/fundamentals-4.png)
+![Causality](graphics/fundamentals-4.png)
 
 ## Systems Mapping
 
 Systems mapping is one of the key tools of the systems thinker. There are many ways to map, from analog cluster mapping to complex digital feedback analysis. However, the fundamental principles and practices of systems mapping are universal. Identify and map the elements of ‘things’ within a system to understand how they interconnect, relate and act in a complex system, and from here, unique insights and discoveries can be used to develop interventions, shifts, or policy decisions that will dramatically change the system in the most effective way.
 
-![](graphics/fundamentals-5.jpeg)
+![Systems Mapping](graphics/fundamentals-5.jpeg)

@@ -2,7 +2,7 @@
 
 Source: [Mindset by Carol Dweck](https://www.samuelthomasdavies.com/book-summaries/psychology/mindset/)
 
-![](graphics/mentalmodels.fixed-vs-growth-mindset.jpg)
+![Fixed vs Growth Mindset](graphics/mentalmodels.fixed-vs-growth-mindset.jpg)
 
 ## The Book in Three Sentences
 

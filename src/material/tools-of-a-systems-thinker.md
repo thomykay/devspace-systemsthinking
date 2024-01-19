@@ -4,6 +4,7 @@ Source: [The 6 Fundamental Concepts of Systems Thinking](https://protection.inte
 ## Interconnectedness
 
 Systems thinking requires a shift in mindset, away from linear to circular motivated by the underlying principle that everything needs something else (or a combination of things) to continue; in other terms – everything is interconnected.
+
 ## Synthesis
 
 Synthesis is the combining of two or more things to create something new. Systems thinking aims to examine and understand the whole and the parts simultaneously, along with the interconnectedness that make up the dynamics of the whole. This is contrasted by analysis that breaks up complexity into manageable bits.

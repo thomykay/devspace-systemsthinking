@@ -1,12 +1,13 @@
 # The Blind Men and the Elephant
 
-Sources: 
+Sources:
+
 * [The Blind Men and the Elephant](https://www.peacecorps.gov/educators/resources/story-blind-men-and-elephant/)
 * [The Blind Men and The Elephant: A Short Story about Perspective](https://www.sloww.co/blind-men-elephant/)
 
-## A folk tale from India that teaches intercultural awareness by illustrating how different perspectives lead to distinct points of view.
+## A folk tale from India that teaches intercultural awareness by illustrating how different perspectives lead to distinct points of view
 
-![](../graphics/mentalmodels.blind-men-and-elephant.drawio.svg)
+![Blind men and elephant](graphics/mentalmodels.blind-men-and-elephant.drawio.svg)
 
 Long ago six old men lived in a village in India. Each was born blind. The other villagers loved the old men and kept them away from harm. Since the blind men could not see the world for themselves, they had to imagine many of its wonders. They listened carefully to the stories told by travelers to learn what they could about life outside the village.
 

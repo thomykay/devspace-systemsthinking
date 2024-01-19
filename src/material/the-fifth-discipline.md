@@ -4,7 +4,8 @@
 # The Fifth Discipline
 
 ## The Five Disciplines
-Source: https://leeds-faculty.colorado.edu/larsenk/learnorg/senge.html
+
+Source: [Peter M. Senge, The Fifth Discipline: The Art & Practice of The Learning Organization](https://leeds-faculty.colorado.edu/larsenk/learnorg/senge.html)
 
 ### Learning Organizations
 
